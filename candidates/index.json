@@ -1,0 +1,15 @@
+{
+  "description": "Agent Software Factory 方案候选池。status: pending（待调研）/ rejected（已排除，需写 reason）。发现阶段排除 state/researched.json 中已收录的 slug。",
+  "ordered_slugs": [
+    "swe-agent",
+    "agentless",
+    "metagpt",
+    "chatdev",
+    "swe-af",
+    "agyn",
+    "open-swe",
+    "loom",
+    "trae-agent",
+    "loopforge"
+  ]
+}
