@@ -35,6 +35,33 @@
       "duplicates": [],
       "rejected": [],
       "source_errors": []
+    },
+    {
+      "date": "2026-11-24",
+      "imported_at": "2026-11-24T23:06:34.976270+00:00",
+      "dry_run": false,
+      "added": [
+        "omnigent"
+      ],
+      "duplicates": [],
+      "rejected": [],
+      "source_errors": [
+        {
+          "source": "license_file_fetch",
+          "error": "TLS EOF from raw.githubusercontent.com after one retry; repository metadata Apache-2.0 remained available"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "imported_at": "2026-11-24T23:09:20.860664+00:00",
+      "dry_run": false,
+      "added": [
+        "dsh-superagent-prototype"
+      ],
+      "duplicates": [],
+      "rejected": [],
+      "source_errors": []
     }
   ]
 }

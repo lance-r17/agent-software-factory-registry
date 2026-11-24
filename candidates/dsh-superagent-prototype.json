@@ -1,0 +1,51 @@
+{
+  "slug": "dsh-superagent-prototype",
+  "name": "dsh-superagent-prototype",
+  "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+  "canonical_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-25",
+  "status": "pending",
+  "discovery": {
+    "source": "github_issue",
+    "query": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "source_url": "https://github.com/lance-r17/agent-software-factory/issues/45"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "MIT",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-25",
+    "resolved_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-25"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 5,
+    "documentation": 4,
+    "reproducibility": 3,
+    "maintenance": 5,
+    "evidence": 4,
+    "risk_penalty": 3
+  },
+  "selection_reason": "Fast Track Issue #45 machine review: official GitHub metadata and MIT license verified; README documents role_orchestration, delivery_workflow, execution_verification, human_control. Scores use repository, documentation, release, and maintenance evidence; stars are not used.",
+  "ranking": {
+    "eligible": true,
+    "total": 77.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 15.0,
+      "documentation": 8.0,
+      "reproducibility": 9.0,
+      "maintenance": 5.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 12.0,
+    "ranked_at": "2026-11-25"
+  }
+}

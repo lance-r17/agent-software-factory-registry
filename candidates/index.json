@@ -10,6 +10,8 @@
     "open-swe",
     "loom",
     "trae-agent",
-    "loopforge"
+    "loopforge",
+    "omnigent",
+    "dsh-superagent-prototype"
   ]
 }
