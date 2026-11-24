@@ -1,0 +1,52 @@
+{
+  "slug": "loopforge",
+  "name": "LoopForge",
+  "url": "https://github.com/tencent/loopforge",
+  "canonical_url": "https://github.com/tencent/loopforge",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-24",
+  "status": "pending",
+  "discovery": {
+    "source": "user_request",
+    "query": "https://github.com/Tencent/LoopForge.git",
+    "source_url": "https://github.com/Tencent/LoopForge"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "MIT",
+    "license_source": "license_file_review",
+    "archived": false,
+    "checked_at": "2026-11-24",
+    "resolved_url": "https://github.com/tencent/loopforge",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-24",
+    "license_evidence_url": "https://github.com/Tencent/LoopForge/blob/main/LICENSE"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 4,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 4,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Self-hosted software-delivery platform for coding agents with Main Bot chat, reusable SOPs, role separation, Docker/native sandboxes, human approval gates, PR/MR delivery, and run evidence. Strong factory fit and active maintenance; license is accepted only through manually reviewed root LICENSE evidence because repository metadata reports NOASSERTION.",
+  "ranking": {
+    "eligible": true,
+    "total": 83.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 12.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-24"
+  }
+}

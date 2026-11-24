@@ -1,0 +1,51 @@
+{
+  "slug": "agyn",
+  "name": "Agyn",
+  "url": "https://github.com/agynio/platform",
+  "canonical_url": "https://github.com/agynio/platform",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-23",
+  "status": "pending",
+  "discovery": {
+    "source": "arxiv",
+    "query": "autonomous software engineering agent SWE-bench github open source",
+    "source_url": "https://arxiv.org/html/2602.01465"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "AGPL-3.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-23",
+    "resolved_url": "https://github.com/agynio/platform",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-23"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 4,
+    "novelty": 4,
+    "documentation": 3,
+    "reproducibility": 4,
+    "maintenance": 3,
+    "evidence": 4,
+    "risk_penalty": 1
+  },
+  "selection_reason": "arXiv 2602.01465 配套开源平台：面向团队化自主软件工程的多智能体系统，角色/工作区分离、自主 code review 与 PR 管理，SWE-bench 500 上较 mini-SWE-agent 提升 7.4%，开放完整实验工件。",
+  "ranking": {
+    "eligible": true,
+    "total": 78.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 12.0,
+      "novelty": 12.0,
+      "documentation": 6.0,
+      "reproducibility": 12.0,
+      "maintenance": 3.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 4.0,
+    "ranked_at": "2026-11-24"
+  }
+}

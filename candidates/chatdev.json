@@ -1,0 +1,12 @@
+{
+  "slug": "chatdev",
+  "name": "ChatDev",
+  "url": "https://github.com/OpenBMB/ChatDev",
+  "discovered_date": "2026-11-21",
+  "status": "pending",
+  "ranking": {
+    "eligible": false,
+    "reason": "official_repository_not_checked",
+    "ranked_at": "2026-11-24"
+  }
+}

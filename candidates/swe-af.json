@@ -1,0 +1,51 @@
+{
+  "slug": "swe-af",
+  "name": "SWE-AF",
+  "url": "https://github.com/agent-field/swe-af",
+  "canonical_url": "https://github.com/agent-field/swe-af",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-23",
+  "status": "pending",
+  "discovery": {
+    "source": "web_search",
+    "query": "SWE-AF AgentField autonomous multi-agent software engineering github",
+    "source_url": "https://github.com/Agent-Field/SWE-AF"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-23",
+    "resolved_url": "https://github.com/agent-field/swe-af",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-23"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 4,
+    "documentation": 4,
+    "reproducibility": 4,
+    "maintenance": 4,
+    "evidence": 4,
+    "risk_penalty": 1
+  },
+  "selection_reason": "显式定位 autonomous software engineering factory：单次 API 调用启动 PM/架构/编码/评审/QA/合并全角色团队，DAG 调度 + 隔离 worktree 并行 + 断点续跑；有公开构建成本与 benchmark 证据（PR #179：10/10 issue、217 测试通过、$19.23）。Apache-2.0。",
+  "ranking": {
+    "eligible": true,
+    "total": 84.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 12.0,
+      "documentation": 8.0,
+      "reproducibility": 12.0,
+      "maintenance": 4.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 4.0,
+    "ranked_at": "2026-11-24"
+  }
+}

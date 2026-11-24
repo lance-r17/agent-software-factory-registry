@@ -1,0 +1,51 @@
+{
+  "slug": "loom",
+  "name": "Loom",
+  "url": "https://github.com/valkor-ai/loom",
+  "canonical_url": "https://github.com/valkor-ai/loom",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-24",
+  "status": "pending",
+  "discovery": {
+    "source": "github",
+    "query": "software engineering agent in:name,description",
+    "source_url": "https://github.com/valkor-ai/loom"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-24",
+    "resolved_url": "https://github.com/valkor-ai/loom",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-24"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 4,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 4,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Official Apache-2.0 repository with a concrete MCP contract and resumable delivery artifacts. Reproducibility is reduced by agent/plugin prerequisites and the release installer; deployment is local preview rather than production.",
+  "ranking": {
+    "eligible": true,
+    "total": 83.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 12.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-24"
+  }
+}

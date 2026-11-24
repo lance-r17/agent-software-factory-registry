@@ -1,0 +1,51 @@
+{
+  "slug": "trae-agent",
+  "name": "Trae Agent",
+  "url": "https://github.com/bytedance/trae-agent",
+  "canonical_url": "https://github.com/bytedance/trae-agent",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-24",
+  "status": "pending",
+  "discovery": {
+    "source": "github",
+    "query": "software engineering agent in:name,description",
+    "source_url": "https://github.com/bytedance/trae-agent"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "MIT",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-24",
+    "resolved_url": "https://github.com/bytedance/trae-agent",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-24"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 3,
+    "novelty": 3,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 3,
+    "evidence": 4,
+    "risk_penalty": 1
+  },
+  "selection_reason": "Official MIT repository with clear CLI, Docker and trajectory documentation. It is a strong single-agent execution component but lacks the native multi-role factory orchestration of higher-ranked candidates.",
+  "ranking": {
+    "eligible": true,
+    "total": 76.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 9.0,
+      "novelty": 9.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 3.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 4.0,
+    "ranked_at": "2026-11-24"
+  }
+}

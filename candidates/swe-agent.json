@@ -1,0 +1,12 @@
+{
+  "slug": "swe-agent",
+  "name": "SWE-agent",
+  "url": "https://github.com/SWE-agent/SWE-agent",
+  "discovered_date": "2026-11-21",
+  "status": "pending",
+  "ranking": {
+    "eligible": false,
+    "reason": "official_repository_not_checked",
+    "ranked_at": "2026-11-24"
+  }
+}

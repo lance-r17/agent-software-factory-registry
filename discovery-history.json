@@ -1,0 +1,40 @@
+{
+  "runs": [
+    {
+      "date": "2026-11-23",
+      "imported_at": "2026-11-23T05:46:42.945309+00:00",
+      "dry_run": false,
+      "added": [
+        "swe-af",
+        "agyn"
+      ],
+      "duplicates": [],
+      "rejected": [],
+      "source_errors": []
+    },
+    {
+      "date": "2026-11-24",
+      "imported_at": "2026-11-24T01:01:57.840769+00:00",
+      "dry_run": false,
+      "added": [
+        "open-swe",
+        "loom",
+        "trae-agent"
+      ],
+      "duplicates": [],
+      "rejected": [],
+      "source_errors": []
+    },
+    {
+      "date": "2026-11-24",
+      "imported_at": "2026-11-24T06:05:05.609441+00:00",
+      "dry_run": false,
+      "added": [
+        "loopforge"
+      ],
+      "duplicates": [],
+      "rejected": [],
+      "source_errors": []
+    }
+  ]
+}

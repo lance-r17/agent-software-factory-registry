@@ -1,0 +1,51 @@
+{
+  "slug": "open-swe",
+  "name": "Robin (Open SWE)",
+  "url": "https://github.com/langchain-ai/open-swe",
+  "canonical_url": "https://github.com/langchain-ai/open-swe",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-24",
+  "status": "pending",
+  "discovery": {
+    "source": "infoq",
+    "query": "开源 多智能体 软件开发 官方仓库",
+    "source_url": "https://www.infoq.cn/article/ucQtx67807qs9B4ig5IS"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "MIT",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-24",
+    "resolved_url": "https://github.com/langchain-ai/open-swe",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-24"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 5,
+    "documentation": 4,
+    "reproducibility": 2,
+    "maintenance": 4,
+    "evidence": 5,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Official repository and MIT license verified. The current README describes a complete software-factory loop and durable LangGraph state, but default deployment requires Managed Deep Agents and vendor/ is outside the repository license.",
+  "ranking": {
+    "eligible": true,
+    "total": 80.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 15.0,
+      "documentation": 8.0,
+      "reproducibility": 6.0,
+      "maintenance": 4.0,
+      "evidence": 15.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-24"
+  }
+}
