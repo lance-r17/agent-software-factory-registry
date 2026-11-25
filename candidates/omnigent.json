@@ -1,0 +1,51 @@
+{
+  "slug": "omnigent",
+  "name": "Omnigent",
+  "url": "https://github.com/omnigent-ai/omnigent",
+  "canonical_url": "https://github.com/omnigent-ai/omnigent",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-24",
+  "status": "pending",
+  "discovery": {
+    "source": "github",
+    "query": "software engineering agent in:name,description",
+    "source_url": "https://github.com/omnigent-ai/omnigent"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-25",
+    "resolved_url": "https://github.com/omnigent-ai/omnigent",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-24"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 4,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 5,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Official Apache-2.0 repository with a common orchestration layer for coding agents, YAML-defined sub-agents and reviewers, Polly's parallel-worktree workflow, approval policies, local and cloud sandboxes, and detailed deployment documentation. Reproducibility and risk scores reflect external harness, model credential, Node.js, sandbox, and optional cloud prerequisites.",
+  "ranking": {
+    "eligible": true,
+    "total": 86.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 12.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 15.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-25"
+  }
+}
