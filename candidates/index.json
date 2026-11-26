@@ -12,6 +12,9 @@
     "trae-agent",
     "loopforge",
     "omnigent",
-    "dsh-superagent-prototype"
+    "dsh-superagent-prototype",
+    "swe-ladder",
+    "agentic-project-management",
+    "xum"
   ]
 }

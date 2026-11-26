@@ -62,6 +62,19 @@
       "duplicates": [],
       "rejected": [],
       "source_errors": []
+    },
+    {
+      "date": "2026-11-25",
+      "imported_at": "2026-11-25T23:05:40.443911+00:00",
+      "dry_run": false,
+      "added": [
+        "swe-ladder",
+        "agentic-project-management",
+        "xum"
+      ],
+      "duplicates": [],
+      "rejected": [],
+      "source_errors": []
     }
   ]
 }

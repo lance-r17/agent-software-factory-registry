@@ -1,0 +1,51 @@
+{
+  "slug": "swe-ladder",
+  "name": "SWE-Ladder",
+  "url": "https://github.com/zju-real/swe-ladder",
+  "canonical_url": "https://github.com/zju-real/swe-ladder",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-25",
+  "status": "pending",
+  "discovery": {
+    "source": "swe-bench-ecosystem",
+    "query": "SWE-bench patch generation tool official code 2026",
+    "source_url": "https://github.com/ZJU-REAL/SWE-Ladder"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-26",
+    "resolved_url": "https://github.com/zju-real/swe-ladder",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-25"
+  },
+  "scores": {
+    "relevance": 4,
+    "factory_fit": 2,
+    "novelty": 4,
+    "documentation": 5,
+    "reproducibility": 2,
+    "maintenance": 3,
+    "evidence": 5,
+    "risk_penalty": 3
+  },
+  "selection_reason": "Official code and arXiv-linked documentation provide stage-specific LOC/REP/PATCH training and evaluation. Factory fit and reproducibility are limited by its training-only scope, upstream rllm integration and accelerator requirements; no local benchmark was run.",
+  "ranking": {
+    "eligible": true,
+    "total": 60.0,
+    "score_breakdown": {
+      "relevance": 20.0,
+      "factory_fit": 6.0,
+      "novelty": 12.0,
+      "documentation": 10.0,
+      "reproducibility": 6.0,
+      "maintenance": 3.0,
+      "evidence": 15.0
+    },
+    "risk_deduction": 12.0,
+    "ranked_at": "2026-11-26"
+  }
+}

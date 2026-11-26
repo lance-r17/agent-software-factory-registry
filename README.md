@@ -12,6 +12,9 @@ Canonical candidate data for local-cache rebuilds. Projects and Issue views are 
 | 6 | [Agyn](candidates/agyn.json) | https://github.com/agynio/platform | AGPL-3.0 | 78.0 | True | 2026-11-23 |
 | 7 | [dsh-superagent-prototype](candidates/dsh-superagent-prototype.json) | https://github.com/deepseek-ai/dsh-superagent-prototype | MIT | 77.0 | True | 2026-11-25 |
 | 8 | [Trae Agent](candidates/trae-agent.json) | https://github.com/bytedance/trae-agent | MIT | 76.0 | True | 2026-11-24 |
+| 9 | [Agentic Project Management](candidates/agentic-project-management.json) | https://github.com/sdi2200262/agentic-project-management | MPL-2.0 | 75.0 | True | 2026-11-25 |
+| 10 | [Xum](candidates/xum.json) | https://github.com/coder/xum | AGPL-3.0 | 73.0 | True | 2026-11-25 |
+| 11 | [SWE-Ladder](candidates/swe-ladder.json) | https://github.com/zju-real/swe-ladder | Apache-2.0 | 60.0 | True | 2026-11-25 |
 | — | [Agentless](candidates/agentless.json) | https://github.com/OpenAutoCoder/Agentless | — | — | False | 2026-11-21 |
 | — | [ChatDev](candidates/chatdev.json) | https://github.com/OpenBMB/ChatDev | — | — | False | 2026-11-21 |
 | — | [MetaGPT](candidates/metagpt.json) | https://github.com/FoundationAgents/MetaGPT | — | — | False | 2026-11-21 |
