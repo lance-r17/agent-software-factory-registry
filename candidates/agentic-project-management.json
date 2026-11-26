@@ -1,0 +1,52 @@
+{
+  "slug": "agentic-project-management",
+  "name": "Agentic Project Management",
+  "url": "https://github.com/sdi2200262/agentic-project-management",
+  "canonical_url": "https://github.com/sdi2200262/agentic-project-management",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-25",
+  "status": "pending",
+  "discovery": {
+    "source": "github",
+    "query": "software engineering agent in:name,description",
+    "source_url": "https://github.com/sdi2200262/agentic-project-management"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "MPL-2.0",
+    "license_source": "license_file_review",
+    "archived": false,
+    "checked_at": "2026-11-26",
+    "resolved_url": "https://github.com/sdi2200262/agentic-project-management",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-25",
+    "license_evidence_url": "https://github.com/sdi2200262/agentic-project-management/blob/main/LICENSE"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 4,
+    "novelty": 3,
+    "documentation": 4,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 4,
+    "risk_penalty": 2
+  },
+  "selection_reason": "A spec-driven multi-agent software-engineering workflow with durable files, human approval and role handoff. It depends on an external coding agent and user-mediated coordination; it is not an unattended execution or sandbox platform.",
+  "ranking": {
+    "eligible": true,
+    "total": 75.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 12.0,
+      "novelty": 9.0,
+      "documentation": 8.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-26"
+  }
+}

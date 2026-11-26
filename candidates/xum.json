@@ -1,0 +1,51 @@
+{
+  "slug": "xum",
+  "name": "Xum",
+  "url": "https://github.com/coder/xum",
+  "canonical_url": "https://github.com/coder/xum",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-25",
+  "status": "pending",
+  "discovery": {
+    "source": "research-artifacts",
+    "query": "coding agent CLI official repository 2026",
+    "source_url": "https://www.npmjs.com/package/mux"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "AGPL-3.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-26",
+    "resolved_url": "https://github.com/coder/xum",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-25"
+  },
+  "scores": {
+    "relevance": 4,
+    "factory_fit": 4,
+    "novelty": 4,
+    "documentation": 4,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 4,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Open-source coding-agent multiplexer with isolated local, worktree and SSH workspaces plus multi-model support. It is an operator console for parallel agents, not a complete issue-to-merge factory; remote credentials and trusted workspaces remain deployment risks.",
+  "ranking": {
+    "eligible": true,
+    "total": 73.0,
+    "score_breakdown": {
+      "relevance": 20.0,
+      "factory_fit": 12.0,
+      "novelty": 12.0,
+      "documentation": 8.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-26"
+  }
+}
