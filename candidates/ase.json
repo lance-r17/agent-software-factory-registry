@@ -1,0 +1,52 @@
+{
+  "slug": "ase",
+  "name": "Agentic Software Engineering (ASE)",
+  "url": "https://github.com/rse/ase",
+  "canonical_url": "https://github.com/rse/ase",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-26",
+  "status": "pending",
+  "discovery": {
+    "source": "github",
+    "query": "software engineering agent in:name,description",
+    "source_url": "https://github.com/rse/ase"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-27",
+    "resolved_url": "https://github.com/rse/ase",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-26",
+    "license_evidence_url": "https://github.com/rse/ase/blob/master/LICENSE.txt"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 5,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 5,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Official Apache-2.0 project with a current 2.1.6 release and active maintenance. It provides a broad engineering skills system, durable task artifacts and boards, MCP tooling, optional headless agent fleets, and explicit human control. Reproducibility and risk scores reflect the Node.js and external agent-harness prerequisites, optional paid model or search credentials, and the fact that no model-driven factory run has been performed during discovery.",
+  "ranking": {
+    "eligible": true,
+    "total": 89.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 15.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 15.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-27"
+  }
+}
