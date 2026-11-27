@@ -1,0 +1,52 @@
+{
+  "slug": "superqode",
+  "name": "SuperQode",
+  "url": "https://github.com/superagenticai/superqode",
+  "canonical_url": "https://github.com/superagenticai/superqode",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-28",
+  "status": "pending",
+  "discovery": {
+    "source": "research-artifacts",
+    "query": "software engineering agent research artifact",
+    "source_url": "https://pypi.org/project/superqode/0.2.91/"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-28",
+    "resolved_url": "https://github.com/superagenticai/superqode",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-28",
+    "license_evidence_url": "https://github.com/SuperagenticAI/superqode/blob/main/LICENSE"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 5,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 4,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Official sources document an inspectable HarnessSpec plus WorkOrders, bounded workers, isolated worktrees, acceptance tests and human approval; full lifecycle coverage is balanced against alpha status and no local model execution during discovery.",
+  "ranking": {
+    "eligible": true,
+    "total": 86.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 15.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 12.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-28"
+  }
+}
