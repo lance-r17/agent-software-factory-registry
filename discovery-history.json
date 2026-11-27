@@ -86,6 +86,24 @@
       "duplicates": [],
       "rejected": [],
       "source_errors": []
+    },
+    {
+      "date": "2026-11-28",
+      "imported_at": "2026-11-27T23:10:32.566801+00:00",
+      "dry_run": false,
+      "added": [
+        "superqode",
+        "scion"
+      ],
+      "duplicates": [
+        {
+          "slug": "open-swe",
+          "matched_slug": "open-swe",
+          "matched_url": "https://github.com/langchain-ai/open-swe"
+        }
+      ],
+      "rejected": [],
+      "source_errors": []
     }
   ]
 }
