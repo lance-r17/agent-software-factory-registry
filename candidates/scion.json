@@ -1,0 +1,52 @@
+{
+  "slug": "scion",
+  "name": "Scion",
+  "url": "https://github.com/googlecloudplatform/scion",
+  "canonical_url": "https://github.com/googlecloudplatform/scion",
+  "aliases": [],
+  "previous_urls": [],
+  "discovered_date": "2026-11-28",
+  "status": "pending",
+  "discovery": {
+    "source": "chinese-discovery",
+    "query": "多智能体 软件开发 开源实现",
+    "source_url": "https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM"
+  },
+  "verification": {
+    "official_repository_checked": true,
+    "license": "Apache-2.0",
+    "license_source": "repository_metadata",
+    "archived": false,
+    "checked_at": "2026-11-28",
+    "resolved_url": "https://github.com/googlecloudplatform/scion",
+    "url_resolution": "github_api",
+    "repository_checked_at": "2026-11-28",
+    "license_evidence_url": "https://github.com/GoogleCloudPlatform/scion/blob/main/LICENSE"
+  },
+  "scores": {
+    "relevance": 5,
+    "factory_fit": 5,
+    "novelty": 5,
+    "documentation": 5,
+    "reproducibility": 4,
+    "maintenance": 5,
+    "evidence": 5,
+    "risk_penalty": 2
+  },
+  "selection_reason": "Official repository and Apache-2.0 metadata verify a pre-1.0 multi-agent collaboration platform with container isolation, independent credentials, flexible Git workspaces, task delegation and reusable skills; community reporting is used only as a discovery lead.",
+  "ranking": {
+    "eligible": true,
+    "total": 89.0,
+    "score_breakdown": {
+      "relevance": 25.0,
+      "factory_fit": 15.0,
+      "novelty": 15.0,
+      "documentation": 10.0,
+      "reproducibility": 12.0,
+      "maintenance": 5.0,
+      "evidence": 15.0
+    },
+    "risk_deduction": 8.0,
+    "ranked_at": "2026-11-28"
+  }
+}
